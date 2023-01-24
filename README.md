@@ -16,15 +16,16 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Kuberneties" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
+   <img align="center" alt="dart" src="https://img.shields.io/badge/dart-2966CE?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-005571?style=for-the-badge&logo=react">
+  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-fff.svg?style=for-the-badge&logo=flutter&logoColor=0081C9">
+  <img align="center" alt="Mongodb" src="https://img.shields.io/badge/Mongodb-367E18?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img align="center" alt="node-js" src="https://img.shields.io/badge/nodejs-D33833?style=for-the-badge&logo=nodejs&logoColor=white">
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Vagrant" src="https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white">
-  <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white">
+ 
+  
 </div>
 
 ---
@@ -47,13 +48,20 @@
 -->
 
 <div>
+
   <a href="https://github.com/prinako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prinako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinako&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinako&layout=compact&langs_count=9&theme=dracula"/>
 </div>
     
 ---
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prinako)
+
+  
+
 <!-- 
 ## Feel Free to contact me:
   <a href="https://www.linkedin.com/in/erick-eloi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 -->
+
