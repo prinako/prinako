@@ -4,13 +4,6 @@
 -->
 
 <p align="left"> <b>☁ DevOps and Cloud ☁</b> </p> 
-<!-- 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
-- 👀 I’m interested in Python, DevOps and Cloud
-- 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **Python**
--->
-
 
 ---
 
@@ -32,43 +25,12 @@
    <img align="center" alt="css" src="https://img.shields.io/badge/css-0081B4?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-
 ---
-<!--
-<details>     
- <summary>📃 Experience</summary>
-  
-- 📖 **DevOps Intern**\
-📆 July/2022 - Dec/2022
-📍 **Compass.oul** - Remote, Brazil
-  
-- 📖 **Data Scientist Intern**\
-📆 April/2022 - July/2022
-📍 **Secretary Of Intelligence and Criminal Analysis** (SIAC - SEGUP) - Belém (PA), Brazil
-
-- 👨‍💻 **Technical Support**\
-📆 Sept/2021 - April/2022
-📍 **Institute of Health Sciences - UFPA** - Belém (PA), Brazil
-</details>
--->
-
-
 
 <div>
-
   <a href="https://github.com/prinako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prinako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinako&layout=compact&langs_count=7&theme=dracula"/>
-  
-    
 </div>
     
 ---
-
-
-  
-
-<!-- 
-
--->
-
