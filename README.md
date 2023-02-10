@@ -18,11 +18,14 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-316192?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Mongodb" src="https://img.shields.io/badge/Mongodb-367E18?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="socket.io" src="https://img.shields.io/badge/socket.io-fff?style=for-the-badge&logo=socket.io&logoColor=black">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="node-js" src="https://img.shields.io/badge/node.js-5F8D4E?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="HTMl" src="https://img.shields.io/badge/Html 5-E14D2A?style=for-the-badge&logo=HTML5&logoColor=white">
-   <img align="center" alt="css" src="https://img.shields.io/badge/css-0081B4?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="css" src="https://img.shields.io/badge/css-0081B4?style=for-the-badge&logo=css3&logoColor=white"> 
+   <img align="center" alt="express.js" src="https://img.shields.io/badge/express.js-61876E?style=for-the-badge&logo=express&logoColor=white"> 
+  
 </div>
 
 ---
