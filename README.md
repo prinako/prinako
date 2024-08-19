@@ -39,7 +39,7 @@ I am a Computer Engineering student at the Federal University of Pará (UFPA). I
 
 ### 🌱 I’m Currently Working On:
 - Vegetation recognition project using YOLOv8
-- 'WhyDisconnected' app for offline and online communication using socket.io and WebRTC
+- 'WhyDisconnected' app for offline communication using socket.io and WebRTC
 
 ### 📈 GitHub Stats
 <p align="center">
